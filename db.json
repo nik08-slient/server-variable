@@ -1,0 +1,31 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "bmde": [
+    {
+      "id": 1,
+      "asset-tag": "HP Proobook",
+      "UUID": "12345678"
+    },
+    {
+      "asset-tag": "Lenovo",
+      "UUID": "9832498234",
+      "id": 2
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
